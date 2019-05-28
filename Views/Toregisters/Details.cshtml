@@ -1,0 +1,90 @@
+﻿@model Original.Models.Toregister
+
+@{
+   
+}
+
+<style>
+
+    dt {
+        font-size: 16px;
+    }
+
+    dd {
+        font-size: 18px;
+    }
+
+
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+
+    </style>
+
+
+    <div>
+
+        <h2 style="        font-style: italic">Edite Seu Cadastro</h2>
+
+        <hr />
+        <dl class="dl-horizontal">
+
+            <dt >
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Idade)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Idade)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.CPF)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.CPF)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Peso)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Peso)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Altura)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Altura)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Telefone)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Nascimento)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Nascimento)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Sexo)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Sexo)
+            </dd>
+        </dl>
+    </div>
+<div>
+    <button class="btn btn-primary" ><a asp-action="Edit" asp-route-id="@Model.Id" style="        text-decoration: none;
+        color: lightgray" >Edite Seu Cadastro</a></button>
+    
+</div>

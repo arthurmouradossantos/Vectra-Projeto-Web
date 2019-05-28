@@ -1,0 +1,95 @@
+﻿@model Original.Models.Toregister
+
+@{
+
+}
+
+
+
+<style>
+
+
+
+
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+</style>
+
+<script>
+    alert("Nessa Página Os Seus Dados Poderão Ser Excluidos. Tem Certeza Disso?");
+
+</script>
+
+
+<h3 style="        color: lightslategray;
+        font-style: italic">Você tem certeza de que quer deletar seus dados?</h3>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CPF)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CPF)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Peso)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Peso)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Altura)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Altura)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nascimento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nascimento)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sexo)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+
+        <input type="hidden" asp-for="Id" />
+
+
+
+        <button class="btn btn-primary" type="submit" value="Delete" style="        text-decoration: none" id="apagar">Deletar</button>
+
+    </form>
+</div>
+

@@ -1,0 +1,113 @@
+﻿@model IEnumerable<Original.Models.Toregister>
+
+@{
+
+}
+<style>
+
+
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+
+  </style>
+
+<h2 style="        color: lightgray;
+        font-size: 26px;
+        font-style: italic">Usuários Cadastrados</h2>
+<hr />
+
+
+<p>
+
+    <button type="button" class="btn btn-light"> <a asp-action="Create" style="        color: darkslategray;
+        text-decoration: none;">Registrar Novo Usuário</a></button>
+
+</p>
+
+<hr />
+
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Idade)
+            </th>
+
+            <th id="aqui">
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Peso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Altura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nascimento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sexo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Idade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CPF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Peso)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Altura)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nascimento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sexo)
+                </td>
+
+                <td>
+                    <button type="button" class="btn btn-primary"> <a asp-action="Edit" asp-route-id="@item.Id" style="        text-decoration: none;
+        color: lightgray">Atualizar Registro</a></button>
+                    <button type="button" class="btn btn-primary"><a asp-action="Details" asp-route-id="@item.Id" style="        text-decoration: none;
+        color: lightgray">Detalhes</a></button>
+                    <button type="button" class="btn btn-primary"> <a asp-action="Delete" asp-route-id="@item.Id" style="        text-decoration: none;
+        color: lightgray">Excluir Registro</a></button>
+
+                </td>
+            </tr>
+
+
+
+        }
+    </tbody>
+</table>
+

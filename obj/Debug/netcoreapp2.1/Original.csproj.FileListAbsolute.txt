@@ -1,0 +1,70 @@
+C:\Users\Usuario\Desktop\Original\Original\bin\Debug\netcoreapp2.1\Original.deps.json
+C:\Users\Usuario\Desktop\Original\Original\bin\Debug\netcoreapp2.1\Original.runtimeconfig.json
+C:\Users\Usuario\Desktop\Original\Original\bin\Debug\netcoreapp2.1\Original.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Original\Original\bin\Debug\netcoreapp2.1\Original.dll
+C:\Users\Usuario\Desktop\Original\Original\bin\Debug\netcoreapp2.1\Original.pdb
+C:\Users\Usuario\Desktop\Original\Original\bin\Debug\netcoreapp2.1\Original.Views.dll
+C:\Users\Usuario\Desktop\Original\Original\bin\Debug\netcoreapp2.1\Original.Views.pdb
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.Views.pdb
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.dll
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.pdb
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Original.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Create.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Delete.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Details.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Edit.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sobre.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\bin\Debug\netcoreapp2.1\Original.deps.json
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\bin\Debug\netcoreapp2.1\Original.runtimeconfig.json
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\bin\Debug\netcoreapp2.1\Original.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\bin\Debug\netcoreapp2.1\Original.dll
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\bin\Debug\netcoreapp2.1\Original.pdb
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\bin\Debug\netcoreapp2.1\Original.Views.dll
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\bin\Debug\netcoreapp2.1\Original.Views.pdb
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sobre.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Create.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Delete.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Details.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Edit.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\Toregisters\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.Views.pdb
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.dll
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.pdb
+C:\Users\Usuario\Desktop\ENGENHARIA\Programação\PROJETO WEB ORIGINAL VECTRA\Original\Original\Original\obj\Debug\netcoreapp2.1\Original.csproj.CopyComplete

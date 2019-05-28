@@ -1,0 +1,115 @@
+﻿@model Original.Models.Toregister
+
+@{
+}
+
+<head>
+
+
+
+
+
+    <style>
+
+        footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            strong
+
+        {
+            color: dodgerblue;
+        }
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <h2 style="font-style:italic">Registre Seus Dados</h2>
+
+
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Name" style="color:dodgerblue" class="control-label"></label> <strong>*</strong>
+                    <input asp-for="Name" class="form-control" placeholder="Digite Seu Nome" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Idade" style="color:dodgerblue" class="control-label"></label> <strong>*</strong>
+                    <input asp-for="Idade" class="form-control" />
+                    <span asp-validation-for="Idade" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CPF" style="color:dodgerblue" class="control-label"></label> <strong>*</strong>
+                    <input asp-for="CPF" id="cpf" class="form-control" placeholder="Ex: 000.000.00-00"/>
+                    <span asp-validation-for="CPF" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Peso" style="color:dodgerblue" class="control-label"></label> <strong>*</strong>
+                    <input asp-for="Peso" class="form-control" />
+                    <span asp-validation-for="Peso" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Altura" style="color:dodgerblue" class="control-label"></label> <strong>*</strong>
+                    <input asp-for="Altura" class="form-control" placeholder="Por Sintaxe, Digite 00.2 e o resultado será 2,0. Por Ex"/>
+                    <span asp-validation-for="Altura" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Telefone" style="color:dodgerblue" class="control-label"></label>
+                    <input asp-for="Telefone" class="form-control" placeholder="Ex: (xx) 0000-0000 "/>
+                    <span asp-validation-for="Telefone" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Nascimento" style="color:dodgerblue" class="control-label"></label> <strong>*</strong>
+                    <input asp-for="Nascimento" class="form-control" />
+                    <span asp-validation-for="Nascimento" class="text-danger"></span>
+                </div>
+
+                <div class="container">
+                    <label asp-for="Sexo" style="color:dodgerblue; font-size:16px;" class="control-label"></label>
+
+                    <label asp-for="Sexo" style="color:lightgray" class="checkbox-inline" >
+                        <input asp-for="Sexo" class="checkbox" type="radio" value="Masculino" style="height:30px;width:15px; " />Masculino
+                    </label>
+
+                    <label asp-for="Sexo" style="color:lightgray" class="checkbox-inline">
+
+                        <input asp-for="Sexo" class="checkbox" type="radio" value="Feminino" style="height:30px;width:15px;" />Feminino
+                    </label>
+
+                    <span asp-validation-for="Sexo" class="text-danger"></span>
+                </div>
+                <br />
+                <div>
+                    <p style="font-size:15px; color:dodgerblue">Os Campos <strong style="color:lightgray">*</strong> São Obrigatórios</p>
+                </div>
+
+                <div class="form-group">
+
+                    <button type="submit" class="btn btn-primary" value="Create">Registrar</button>
+
+
+
+
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+
+</body>
